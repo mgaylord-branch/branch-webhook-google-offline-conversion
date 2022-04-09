@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "google-ads-api": "^3.6.1",
-    "moment": "^2.25.3",
+    "moment": "^2.29.2",
     "source-map-support": "^0.5.10"
   },
   "devDependencies": {
